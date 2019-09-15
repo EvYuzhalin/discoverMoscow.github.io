@@ -86,13 +86,13 @@ body{
 
 @media (max-width: 1200px){
     svg{
-        height: 10vh;
+        height: 5vh;
     }
 }
 
 @media (min-width: 1366px){
     svg{
-        height: 8vh;
+        height: 5.5vh;
     }
 }
 
@@ -121,7 +121,7 @@ body{
 
 @media (max-width: 1200px){
     .promoMobile{
-        height: 42vh;
+        height: 35vh;
     }
 }
 
