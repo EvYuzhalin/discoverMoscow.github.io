@@ -170,7 +170,7 @@ body{
 
 @media (max-width: 1200px){
     .shortDescription{
-        font-size: 1vh;
+        font-size: 1.3vh;
     }
 }
 
@@ -182,7 +182,7 @@ body{
 
 @media (max-width: 1200px){
     .detailDescription{
-        font-size: 1vh;
+        font-size: 1.3vh;
     }
 }
 
